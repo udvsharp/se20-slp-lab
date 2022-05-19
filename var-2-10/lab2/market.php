@@ -87,7 +87,7 @@ function chooseProducts(): void
     }
 }
 
-function selectOption($option): void
+function selectOption($option): bool
 {
     global $PRODUCTS;
 
